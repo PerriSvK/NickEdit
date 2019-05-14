@@ -1,0 +1,7 @@
+name: ${project.name}
+main: sk.perri.kc.nickedit.Main
+version: ${project.version}
+author: Perri
+description: ${project.description}
+commands:
+  nickedit:
